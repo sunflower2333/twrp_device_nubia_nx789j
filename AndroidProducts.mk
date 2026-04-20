@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_NX789J.mk
+    $(LOCAL_DIR)/twrp_nx789j.mk
 COMMON_LUNCH_CHOICES := \
     twrp_NX789J-ap3a-eng \
     twrp_NX789J-ap3a-userdebug
