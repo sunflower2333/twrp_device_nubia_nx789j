@@ -20,7 +20,7 @@ PRODUCT_MODEL := RedMagic 10 Pro
 TARGET_OTA_ASSERT_DEVICE := nx789J
 
 # Fingerprint
-BUILD_FINGERPRINT := nubia/NX789J-UN/NX789J:15/AQ3A.240812.002/RedMagicOS10.0.15_NX789J_GB:user/release-keys
+BUILD_FINGERPRINT := nubia/nx789j-UN/nx789j:15/AQ3A.240812.002/RedMagicOS10.0.15_nx789j_GB:user/release-keys
 
 # Theme
 TW_STATUS_ICONS_ALIGN := center

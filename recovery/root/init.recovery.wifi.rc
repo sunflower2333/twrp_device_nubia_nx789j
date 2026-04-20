@@ -1,4 +1,4 @@
-# WiFi-in-recovery support for NX789J
+# WiFi-in-recovery support for nx789j
 # Note: wlan driver is built into the kernel — no insmod required.
 # WiFi config files are symlinked at /vendor/firmware/wlan/qca_cld/ by the live system.
 # Services below are available but disabled by default; enable via setprop if needed.

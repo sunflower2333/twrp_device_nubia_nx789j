@@ -1,4 +1,4 @@
-name: TWRP 16 Builder - NX789J
+name: TWRP 16 Builder - nx789j
 
 on:
   workflow_dispatch:
