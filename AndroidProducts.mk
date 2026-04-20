@@ -6,5 +6,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_nx789j.mk
 COMMON_LUNCH_CHOICES := \
-    twrp_nx789J-ap3a-eng \
-    twrp_nx789J-ap3a-userdebug
+    twrp_nx789j-ap3a-eng \
+    twrp_nx789j-ap3a-userdebug
